@@ -1,0 +1,25 @@
+{
+  "name": "健行 · 身体残疾就业导航",
+  "short_name": "健行",
+  "description": "全国身体残疾（肢体、视力、听力、言语）求职者的公益岗位聚合导航。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#2B6DE8",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
